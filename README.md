@@ -41,5 +41,5 @@ This repository contains scripts for adjusting training set sample counts based 
 | Dataset         | Format | Link (Baidu Netdisk) | Extraction Code |
 |-----------------|--------|----------------------|-----------------|
 | FER2013 (adjusted) | CSV    | [Download](https://pan.baidu.com/s/1msmYqw0Yvet3GZtmJq19iQ)            | 1uhh            |
-| MMAFEDB (adjusted) | Images | [Download]([(https://pan.baidu.com/s/1BPgtbuTA5D9WoWlR7HK_8w)          | rdca            |
+| MMAFEDB (adjusted) | Images | [Download](https://pan.baidu.com/s/1BPgtbuTA5D9WoWlR7HK_8w)            | rdca            |
 | Emotion-domestic (adjusted) | Images | [Download](https://pan.baidu.com/s/1IpqiJog7gNNzYRzKnu2myg)   | pyyw            |
