@@ -1,5 +1,8 @@
 # DICC-Facial-Expression-Recognition
-This repository contains scripts for adjusting training set sample counts based on specified imbalance factors, along with pre-processed versions of popular facial expression datasets.
+
+The core code is currently under organization and will be uploaded imminently.
+
+This repository  currently contains scripts for adjusting training set sample counts based on specified imbalance factors, along with pre-processed versions of popular facial expression datasets.
 
 ## Scripts Overview
 
