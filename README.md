@@ -37,7 +37,8 @@ This repository contains scripts for adjusting training set sample counts based 
   - Test: 4,000  
 - ​**​Classes​**​: Same 7 emotions as FER2013
 
-## Processed Datasets
+## Processed Train Datasets
+
 | Dataset         | Format | Link (Baidu Netdisk) | Extraction Code |
 |-----------------|--------|----------------------|-----------------|
 | FER2013 (adjusted) | CSV    | [Download](https://pan.baidu.com/s/1msmYqw0Yvet3GZtmJq19iQ)            | 1uhh            |
