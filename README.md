@@ -39,6 +39,10 @@ This repository contains scripts for adjusting training set sample counts based 
 
 ## Processed Train Datasets
 
+![FER2013 (adjusted) schematic diagram](image/FER2013_Imbalance_Combined.png)
+![MMAFEDB (adjusted) schematic diagram](image/MMAFEDB_Imbalance_Combined.png)
+![Emotion_domestic (adjusted) schematic diagram](image/Emotion_domestic_Imbalance_Combined.png)
+
 | Dataset         | Format | Link (Baidu Netdisk) | Extraction Code |
 |-----------------|--------|----------------------|-----------------|
 | FER2013 (adjusted) | CSV    | [Download](https://pan.baidu.com/s/1msmYqw0Yvet3GZtmJq19iQ)            | 1uhh            |
